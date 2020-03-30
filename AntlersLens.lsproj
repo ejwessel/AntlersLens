@@ -3,7 +3,7 @@
     "document_id": "S7aeRhhEa5DGIKD1vI86",
     "original_document_id": "S7aeRhhEa5DGIKD1vI86",
     "version": "23",
-    "lastChanged": "1585414122746",
+    "lastChanged": "1585529813728",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -373,7 +373,7 @@
                     },
                     {
                         "k": "6",
-                        "v": "9ac614f818a303c7a121a409aa3cc579"
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
                     },
                     {
                         "k": "7",
@@ -383,48 +383,48 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-03-28T12:44:44",
+                        "lastModified": "2020-03-29T20:56:47",
                         "name": "Public",
-                        "hash": "526522b6784d8e9759dd4be337424863",
+                        "hash": "9d1e86cde3bb9db521fc5f825160d62c",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-03-28T12:44:36",
+                                "lastModified": "2020-03-29T20:52:42",
                                 "name": "Icon.png",
                                 "hash": "f0111d9b086cb33e33e3d43b7aca7aa2",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:52",
+                                "lastModified": "2020-03-29T20:52:42",
                                 "name": "echopark_diff.png",
                                 "hash": "671afbc1d6810060ccbaac866a91cfa1",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:52",
+                                "lastModified": "2020-03-29T20:52:42",
                                 "name": "echopark_spec.png",
                                 "hash": "8e599835d0d45c5879eafb1f474469cd",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-02-21T14:43:52",
+                                "lastModified": "2020-03-29T20:52:42",
                                 "name": "antler.obj",
                                 "hash": "b6f926f618fae6bf3d8d321b497d922c",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-03-28T12:41:25",
+                                "lastModified": "2020-03-29T20:56:47",
                                 "name": "Credit Alpha.js",
-                                "hash": "9ac614f818a303c7a121a409aa3cc579",
+                                "hash": "db50ced2ab3f6080ee3a2da797902079",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-12-13T20:21:47",
+                                "lastModified": "2020-03-29T20:52:42",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -635,8 +635,13 @@
         },
         "InspectorController": {
             "selection": {
-                "objects": [
-                    "1585413694162173:3679"
+                "resources": [
+                    {
+                        "uid": "1585413669432801:3133",
+                        "path_list": [
+                            "Credit Alpha"
+                        ]
+                    }
                 ]
             }
         },
